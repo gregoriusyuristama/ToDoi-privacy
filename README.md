@@ -1,5 +1,5 @@
 # Privacy Policy for ToDoi App
-Welcome to the To Do List: ToDoi app for Android & iOS!
+### Last updated: 19th March 2024
 
 ## Introduction
 ToDoi is a personal project developed by Gregorius Yuristama, with the initial release available open source and planned for distribution on Google Play and the App Store. As a responsible developer, we take privacy seriously and have designed our app to minimize data collection and protect user information.
